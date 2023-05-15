@@ -35,7 +35,6 @@ div.title{
     overflow-wrap: break-word;
     font-family: 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     font-weight: 500;
-
 }
 
 div.ownersWrap{
@@ -175,7 +174,6 @@ input.inputComment{
     -moz-transition: all .3s ease;
     -ms-transition: all .3s ease;
     -o-transition: all .3s ease;
-
 }
 
 button.sendButton{
@@ -186,10 +184,6 @@ button.sendButton{
 img.send{
     background-color:#eaeaea;
     width: 2em;
-}
-
-.arrowDown{
-
 }
 
 .rotated{
