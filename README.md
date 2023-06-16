@@ -12,7 +12,7 @@ users with a better mobile experience managing their projects. Focusing on:
 
 This project was developed for the Planification and implementation of sowftware system course and in collaboration with Innovatium.
 
-This monorepo is divided in proxy and web-interface
+This monorepo is divided in two sections: proxy and web-interface
 
 - ### proxy
    The proxy allows communication and requests from the web-interface to the Kanbanize API. It was developed used Node.js
